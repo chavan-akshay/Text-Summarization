@@ -1,5 +1,9 @@
 # Text-Summarization END to End Pipeline
 
+The project focuses on the implementation of a dialogue/text summarization task.
+The summarization is carried out by using a pre-trained Large Language Model (LLM) Pegasus as the base.
+The model output is further accessed in the form of a web application using the FastAPI package.
+
 ## Workflows
 
 1. Update config.yaml
